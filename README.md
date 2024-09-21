@@ -6,7 +6,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+![image](https://github.com/user-attachments/assets/54acd2fd-c899-4737-a6da-f020f6107f60)
+
 
 > This script queries Indicators of Compromise (IOC), such as IPs and URLs, across multiple security APIs. It gathers reputation information about these IOCs, assisting security professionals in identifying potential threats and protecting their networks.
 
@@ -26,47 +27,13 @@ Before you begin, make sure you've met the following requirements:
 
 - You have instaled the lasted version of `< Python >`
 - You will need 2 libraries to run the code: `<Requests / Os>`
-  To install: `<pip install requests>`, `<pip install os>`
+- To install: `<pip install requests>`, `<pip install os>`
 
-## 🚀 Installing the Ioc Scan
+## ☕ Using Ioc Scan
 
-To install Ioc Scan follow this steps:
-
-Windows:
-
-```
-<pip install requests>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+To use <IOC Scan>, start by entering an IOC (IP or domain) at the beginning of the process. After this step, the script will provide detailed information about the IOC, extracted from various research tools via API.
 
 ## 📫 Contribuindo para <nome_do_projeto>
 
-Para contribuir com <nome_do_projeto>, siga estas etapas:
-
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+This project is still **under development**. I am learning to work with APIs and to program in Python, and I welcome any contributions to enhance the project.
 
