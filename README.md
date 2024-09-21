@@ -21,9 +21,14 @@ The project is still under development and the next updates will focus on the fo
 - [ ] More Api's
 - [ ] More Functions
 
-## 💻 Requeriments
+## 💻 Requeriments (Important)
 
 Before you begin, make sure you've met the following requirements:
+
+### Create an API key on the following sites:
+- Virus Total: https://www.virustotal.com/gui/sign-in
+- AbuseIPDB: https://www.abuseipdb.com/api.html
+
 
 - You have instaled the lasted version of `< Python >`
 - You will need 2 libraries to run the code: `<Requests / Os>`
