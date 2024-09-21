@@ -25,16 +25,17 @@ The project is still under development and the next updates will focus on the fo
 Before you begin, make sure you've met the following requirements:
 
 - You have instaled the lasted version of `< Python >`
-- `Librares`
+- You will need 2 libraries to run the code: `<Requests / Os>`
+  To install: `<pip install requests>`, `<pip install os>`
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Installing the Ioc Scan
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+To install Ioc Scan follow this steps:
 
-Linux e macOS:
+Windows:
 
 ```
-<comando_de_instalação>
+<pip install requests>
 ```
 
 Windows:
