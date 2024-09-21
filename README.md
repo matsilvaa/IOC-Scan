@@ -33,7 +33,7 @@ Before you begin, make sure you've met the following requirements:
 
 To use <IOC Scan>, start by entering an IOC (IP or domain) at the beginning of the process. After this step, the script will provide detailed information about the IOC, extracted from various research tools via API.
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 🎓 Contribute or Teach me
 
 This project is still **under development**. I am learning to work with APIs and to program in Python, and I welcome any contributions to enhance the project.
 
