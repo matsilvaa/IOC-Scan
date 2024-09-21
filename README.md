@@ -28,6 +28,9 @@ Before you begin, make sure you've met the following requirements:
 ### Create an API key on the following sites:
 - Virus Total: https://www.virustotal.com/gui/sign-in
 - AbuseIPDB: https://www.abuseipdb.com/api.html
+### After that you must insert your apikeys into the code. This is necessary to improve personal use of the script
+
+![image](https://github.com/user-attachments/assets/8a794ebc-a349-4104-9e54-541b4108b360)
 
 
 - You have instaled the lasted version of `< Python >`
