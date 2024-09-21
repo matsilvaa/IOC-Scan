@@ -72,7 +72,6 @@ def main():
     ioc = input("Digite o IOC (IPv4, domínio, URL, etc.): ")
     virustotal_api_key = "YOUR API KEY"
     abuseipdb_api_key = "YOUR API KEY "
-    whoisxml_api_key = "at_wiVx8PGNmcZDGCTeLkxUo42KsqKzL"
     limpar_console()
     print(title)
     
